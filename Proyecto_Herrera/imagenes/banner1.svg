@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 210 297"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+    <clipPath id="id0">
+     <rect x="-190" y="82" width="137.499" height="132.419"/>
+    </clipPath>
+    <clipPath id="id1">
+     <rect x="90.344" y="82" width="140.892" height="135"/>
+    </clipPath>
+    <clipPath id="id2">
+     <rect x="-53.3659" y="82" width="146.596" height="135"/>
+    </clipPath>
+    <clipPath id="id3">
+     <rect x="231.049" y="82" width="136.236" height="135"/>
+    </clipPath>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_7649960">
+   <g style="clip-path:url(#id0)">
+    <image id="_7644872" transform="matrix(1 0 0 1 -295 65.9186)" x="105" y="16.0814" width="137.499" height="132.419" xlink:href="banner1_Images\banner1_ImgID1.png"/>
+   </g>
+   <g style="clip-path:url(#id1)">
+    <image id="imagen_day1.png" transform="matrix(1 0 0 1 -14.656 68.4998)" x="105" y="13.5002" width="140.892" height="135" xlink:href="banner1_Images\banner1_ImgID2.png"/>
+   </g>
+   <g style="clip-path:url(#id2)">
+    <image id="imagen_day2.jpg" transform="matrix(1.69087 0 0 2.33796 -230.908 -130.187)" x="105" y="90.7574" width="86.6986" height="57.7426" xlink:href="banner1_Images\banner1_ImgID3.png"/>
+   </g>
+   <g style="clip-path:url(#id3)">
+    <image id="imagen_day3.jpg" transform="matrix(1.57137 0 0 2.33796 66.0549 -130.187)" x="105" y="90.7574" width="86.6986" height="57.7426" xlink:href="banner1_Images\banner1_ImgID4.png"/>
+   </g>
+  </g>
+ </g>
+</svg>

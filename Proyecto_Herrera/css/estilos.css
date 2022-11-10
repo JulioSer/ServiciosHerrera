@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald", sans-serif, Verdana, Helvetica;
+}
+.titulo {
+  text-align: center;
+  color: rgb(22, 22, 139);
+}
+
+body {
+  background-color: rgb(213, 225, 237);
+  text-align: justify;
+}
+
+h3 {
+  color: rgb(22, 22, 139);
+}
+
+header,
+section,
+footer,
+aside,
+nav,
+article {
+  display: block;
+}
+
+.agrupar {
+  border: 1px solid #ccc;
+  width: 95%;
+  margin: 5px auto;
+}
+
+.header {
+  background-color: #ccc;
+  /*border: 1px solid #999999;*/
+  padding: 0;
+  height: 400px;
+  position: sticky;
+}
+
+.menu {
+  background-color: #ccc;
+  padding: 5px 15px;
+  text-align: left;
+  position: sticky;
+}
+.menu li a {
+  text-decoration: none;
+  color: rgb(22, 22, 139);
+}
+.menu li a:hover,
+article a:hover {
+  color: white;
+  border-bottom: 2px solid white;
+}
+
+.menu li {
+  list-style: none;
+  font: bold;
+  padding: 5px;
+  display: inline-block;
+}
+
+.flota {
+  text-align: right;
+  float: right;
+  color: rgb(22, 22, 139);
+  font-size: 25px;
+  padding-top: 0;
+}
+.seccion1 {
+  margin: 22px 13px 10px 22px;
+  width: 47%;
+  float: left;
+}
+
+article {
+  background-color: #ccc;
+  border: 1px solid #999999;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.seccion2 {
+  margin: 20px 14px 10px 25px;
+  width: 47%;
+  float: left;
+}
+.pie {
+  clear: both;
+  padding: 20px;
+  background: #2d3436;
+  color: #fff;
+  width: 97%;
+  margin: 0px auto;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 150px;
+  display: block;
+  margin: 20px auto;
+}
+.roster {
+  border-radius: 10px;
+}
+
+.logo {
+  border: 0;
+  margin: 0;
+  width: 100%;
+  height: 400px;
+}
+
+span {
+  font-size: 14px;
+  color: blue;
+}
+
+.enlace_en_articulo {
+  text-decoration: none;
+  color: blue;
+}
